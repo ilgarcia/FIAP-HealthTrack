@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400&display=swap');
+
+* {font-family: 'Open Sans', sans-serif;}
+
+.purple-background{
+  background-color: #BABEF5;
+}
+
+.box-shadow{
+  background-color: rgba(220, 220, 220, 0.7);
+  border-radius: 10px;
+  box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2)
+}
+
+.btn-green{
+  background-color: #117799;
+}
+
+.nav-link{
+  font-size: 1.2em;
+}
+
+/* Login page */
+
+.login-background {
+  background-image: url("../img/login-background.png");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.btn-login{
+  
+  color:#fff;
+  width: 100%
+}
+
+.btn-cadastro{
+  width: 100%
+}
+
+.title-login{
+  font-size: 1.2em;
+}
+
+.social-login{
+  font-size: 2.5em;
+  color: #4267b2
+}
+
+.cadastrar-background{
+  background-color: #93FAD8;
+  height: 100vh;
+}
+
+/* dashboard */
+
+.background-dashboard{
+  background-color: #E8E8E8;
+}
+
+.graphic-principal {
+  width: 80vw;
+  height: 60vh;
+}
+
+.graphic-secondary {
+  width: 28vw;
+  height: 20vh;
+}
